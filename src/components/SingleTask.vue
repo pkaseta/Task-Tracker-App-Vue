@@ -34,7 +34,7 @@ export default {
 <style scoped>
   .fas
   {
-    color: red;
+    color: white;
   }
   .tasks-container {
     padding: 5px;
@@ -59,5 +59,8 @@ export default {
     align-items: center;
     border: 1px solid white;
     border-radius: 5px;
+  }
+  .tasks-content :hover {
+
   }
 </style>
