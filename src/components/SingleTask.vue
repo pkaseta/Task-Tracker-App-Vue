@@ -61,6 +61,6 @@ export default {
     border-radius: 5px;
   }
   .tasks-content :hover {
-
+    cursor: pointer;
   }
 </style>
